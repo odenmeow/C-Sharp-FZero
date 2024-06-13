@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/InWW6PgIw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onilin\\source\\repos\\C-Sharp-FZero\\CH2-1\\CH2-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onilin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\onilin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\onilin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

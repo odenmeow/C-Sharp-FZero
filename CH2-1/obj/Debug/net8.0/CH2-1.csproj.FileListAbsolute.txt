@@ -1,0 +1,14 @@
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\bin\Debug\net8.0\CH2-1.exe
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\bin\Debug\net8.0\CH2-1.deps.json
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\bin\Debug\net8.0\CH2-1.runtimeconfig.json
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\bin\Debug\net8.0\CH2-1.dll
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\bin\Debug\net8.0\CH2-1.pdb
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\CH2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\CH2-1.AssemblyInfoInputs.cache
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\CH2-1.AssemblyInfo.cs
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\CH2-1.csproj.CoreCompileInputs.cache
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\CH2-1.dll
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\refint\CH2-1.dll
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\CH2-1.pdb
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\CH2-1.genruntimeconfig.cache
+C:\Users\onilin\source\repos\C-Sharp-FZero\CH2-1\obj\Debug\net8.0\ref\CH2-1.dll
